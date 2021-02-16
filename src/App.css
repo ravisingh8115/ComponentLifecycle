@@ -1,0 +1,34 @@
+.breadcrumb {
+  text-align: center;
+}
+#btn {
+  size: 30%;
+  font-size: xx-large;
+}
+
+#mount {
+  font-size: 50%;
+}
+#update {
+  font-size: 50%;
+}
+#unmount {
+  font-size: 50%;
+}
+
+.App {
+  background-color: #282c34;
+
+  justify-content: center;
+}
+.card {
+  height: 70% !important;
+  border: black !important;
+  box-shadow: cyan !important;
+}
+.card-header {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif !important;
+  color: cornsilk !important;
+  background-color: lightseagreen !important;
+  border: solid maroon !important;
+}
